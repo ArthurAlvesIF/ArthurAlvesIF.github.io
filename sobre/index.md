@@ -1,10 +1,13 @@
 ---
-layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: page
+title: Sobre o Autor
+tags: [about, Jekyll, theme, responsive]
+modified: 2014-08-08T20:53:07.573882-04:00
+comments: true
 ---
 
 Aluno do IFRN Campus Nova Cruz, curso técnico integrado em informática
+
 ## Áreas de intesse:
 
 * Desenvolvimento mobile.
@@ -20,5 +23,7 @@ Aluno do IFRN Campus Nova Cruz, curso técnico integrado em informática
 * [Eclipse](https://eclipse.org/)
 * [Netbeans](https://netbeans.org/)  
 
+    
+    
 
-<a markdown="0" href="http://lattes.cnpq.br/3092841355862576" class="btn">Currículo Lattes	</a>
+<center><a markdown="0" href="http://lattes.cnpq.br/3166443073258934" class="btn" target="BLANK">Currículo Lattes	</a></center>
