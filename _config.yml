@@ -1,0 +1,63 @@
+# Site wide configuration
+
+title:            Blog pessoal
+locale:           en_US
+url:              //arthuralvesif.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Artur Antônio Freire Alves
+  avatar: foto-icone.jpg
+  bio: |
+    Estudante de informática do IFRN. Programador Java, Java2EE. Desenvolvimento mobile com Android Studio e Xamarin.
+    |
+    There's no silver bullets.
+  email: arthur.antonio@academico.ifrn.edu.br 
+  disqus-shortname: arthurantonio
+  twitter: Arthur_Alves_1 
+  facebook: arthur.antonio.skg 
+  google: #usenname
+    plus: #username
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: ArthurAlvesIF
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username  
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: arthurantonio1
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+#comments: true
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
