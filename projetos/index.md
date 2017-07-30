@@ -12,7 +12,7 @@ excerpt: "Projetos desenvolvidos."
 ## IFNews
 <center><img src="/images/projetos/IFNews.png"/></center>
 O IFNews é um projeto de um aplicativo e site para divulgação de notícias e eventos do campus. Esse foi o alicerce para o desenvolvimento do MeuCampus.
-Acesse o [artigo]()
+Acesse o [artigo](https://www.dropbox.com/s/s025ihff9iivx79/IFNews%20-%20Relat%C3%B3rio%20Final1.pdf?dl=0)
 
 <center><img src="/images/projetos/IFNews2.png" width="251" height="408"/></center>
 
